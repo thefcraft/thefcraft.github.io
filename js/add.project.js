@@ -7,4 +7,4 @@ function addProject(title, description, image, link){
 }
 
 // addProject('images/project-image4.jpg', 'title', 'description')
-addProject('data cryptor', 'encrypt or decrypt text', 'images/data-cryptor.png', 'https://thefcraft.github.io/data-cryptor-v1.0/')
+addProject('data cryptor', 'encrypt or decrypt text', 'images/data-cryptor.png', '#data-cryptor-v1.0/')
