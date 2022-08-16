@@ -8,3 +8,4 @@ function addProject(title, description, image, link){
 
 // addProject('images/project-image4.jpg', 'title', 'description')
 addProject('data cryptor', 'encrypt or decrypt text', 'images/data-cryptor.png', 'data-cryptor-v1.0')
+addProject('text to speech', 'convert text into audio file', 'images/text-to-speech.jpeg', 'tts')
